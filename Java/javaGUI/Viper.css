@@ -1,0 +1,32 @@
+* {
+    -fx-primary: #2A2E37;
+    -fx-secondary: #FFFF8D;
+    -fx-primarytext: #B2B2B2;
+    -fx-blue: #1976D2;
+    -fx-red: #FF0000;
+    -fx-green: #2E7D32;
+}
+
+.root {
+    -fx-background-color: -fx-primary;
+}
+
+.label {
+    -fx-text-fill: #e8e8e8;
+}
+
+.button {
+    -fx-background-color: #AB4642;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+}
+
+.wrong-credentials {
+    -jfx-unfocus-color: -fx-red;
+    -jfx-focus-color: -fx-red;
+}
+
+#bold-label {
+    -fx-font-weight: bold;
+}
+
