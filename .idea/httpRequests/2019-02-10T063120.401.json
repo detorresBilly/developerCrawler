@@ -1,0 +1,4 @@
+{
+  "error": "https_required",
+  "error_description": "The client is not authorized"
+}

@@ -1,0 +1,70 @@
+POST http://www.linkedin.com/oauth/v2/accessToken
+Host: www.linkedin.com
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=authorization_code&code=AQQhw_oVlYLpwv_M1356ZRpe1jfUH0Moc5sTE_Y9VtofLRmKdY9mwJ3lBDcncm3x2wcxqREYl2cAShj8A5NpBfcN79sUmul7B6kNaAtDBBYpGnPgIrF_yuns7jlR5g8mo_D8STCmNxduEkJMaPf0zrkI8LdS_ZgecPFX503DrFem2wuA3Kz697DZTdpOnQ&redirect_uri=https://www.linkedin.com/oauth/v2&client_id=773zg6mdvbfbb4&client_secret=87nzMEbdZTnlyKnM
+
+<> 2019-02-10T073635.401.json
+
+###
+
+POST http://www.linkedin.com/oauth/v2/accessToken
+Host: www.linkedin.com
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=authorization_code&code=AQQhw_oVlYLpwv_M1356ZRpe1jfUH0Moc5sTE_Y9VtofLRmKdY9mwJ3lBDcncm3x2wcxqREYl2cAShj8A5NpBfcN79sUmul7B6kNaAtDBBYpGnPgIrF_yuns7jlR5g8mo_D8STCmNxduEkJMaPf0zrkI8LdS_ZgecPFX503DrFem2wuA3Kz697DZTdpOnQ&redirect_uri=https://www.linkedin.com/oauth/v2&client_id=773zg6mdvbfbb4&client_secret=87nzMEbdZTnlyKnM
+
+<> 2019-02-10T063120.401.json
+
+###
+
+POST http://www.linkedin.com/oauth/v2/accessToken
+Host: www.linkedin.com
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=authorization_code&code=AQQhw_oVlYLpwv_M1356ZRpe1jfUH0Moc5sTE_Y9VtofLRmKdY9mwJ3lBDcncm3x2wcxqREYl2cAShj8A5NpBfcN79sUmul7B6kNaAtDBBYpGnPgIrF_yuns7jlR5g8mo_D8STCmNxduEkJMaPf0zrkI8LdS_ZgecPFX503DrFem2wuA3Kz697DZTdpOnQ&redirect_uri=https://www.linkedin.com/oauth/v2&client_id=773zg6mdvbfbb4&client_secret=87nzMEbdZTnlyKnM
+
+<> 2019-02-10T062635.401.json
+
+###
+
+POST http://www.linkedin.com/oauth/v2/accessToken
+Host: www.linkedin.com
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=authorization_code&code=AQQBSm6nrC1PBHqG-wIMXfv3xNShEoELcck57xp9Pio7Q5IhyTkxBwi1F5iIvSYUd1ysl66tAws2b2fJQJs0mv4bb7W7m1c5XuBHGDayOnpYx4LFH_UipK0l40WGodUlZfFdLaPPK_s3Oph9u7QV7pBRwq2EpkygohlfGsMObHWreu6uNILkJD53HuoEsQ&redirect_uri=https://www.linkedin.com/oauth/v2&client_id=773zg6mdvbfbb4&client_secret=87nzMEbdZTnlyKnM
+
+<> 2019-02-10T062515.401.json
+
+###
+
+POST http://www.linkedin.com/oauth/v2/accessToken
+Host: www.linkedin.com
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=authorization_code&code=AQQBSm6nrC1PBHqG-wIMXfv3xNShEoELcck57xp9Pio7Q5IhyTkxBwi1F5iIvSYUd1ysl66tAws2b2fJQJs0mv4bb7W7m1c5XuBHGDayOnpYx4LFH_UipK0l40WGodUlZfFdLaPPK_s3Oph9u7QV7pBRwq2EpkygohlfGsMObHWreu6uNILkJD53HuoEsQ&redirect_uri=https://www.linkedin.com/oauth/v2&client_id=773zg6mdvbfbb4&client_secret=87nzMEbdZTnlyKnM
+
+<> 2019-02-10T062310.401.json
+
+###
+
+POST http://www.linkedin.com/oauth/v2/accessToken
+Host: www.linkedin.com
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=AQQHS7f9mUOgcrB36m675MKBmvSN-nKt5KR0nc8IWHtkasTTJCE8CQcGxtdB7icGjL0kHx8D7bW0RtBAZaklynNTojuToDQZXGiuyRhrrjxPrDC-8O0bqXZb1L7AMi29Hp3pkCteuajJu-6-IzvJUw7XAZpfqfKh6QE_aDOUpXxPU5zsWbxmcZQhi_j6WA&code=987654321&redirect_uri=https://www.linkedin.com/oauth/v2&client_id=773zg6mdvbfbb4&client_secret=87nzMEbdZTnlyKnM
+
+<> 2019-02-10T061246.401.json
+
+###
+
+POST http://www.linkedin.com/oauth/v2/accessToken
+Host: www.linkedin.com
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=AQQHS7f9mUOgcrB36m675MKBmvSN-nKt5KR0nc8IWHtkasTTJCE8CQcGxtdB7icGjL0kHx8D7bW0RtBAZaklynNTojuToDQZXGiuyRhrrjxPrDC-8O0bqXZb1L7AMi29Hp3pkCteuajJu-6-IzvJUw7XAZpfqfKh6QE_aDOUpXxPU5zsWbxmcZQhi_j6WA&code=987654321&redirect_uri=https://www.linkedin.com/oauth/v2&client_id=773zg6mdvbfbb4&client_secret=87nzMEbdZTnlyKnM
+
+<> 2019-02-10T060931.401.json
+
+###
+
