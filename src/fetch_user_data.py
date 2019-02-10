@@ -1,7 +1,7 @@
 from github import Github
 from src.dev_class import Developer
 
-g = Github("842e4feafe2d5b3e33173aa0c048dbff0c3d4cfa")
+g = Github("8a86a310715943bcfbc58a45168de522c2ee0d97")
 
 
 def user_search(lang):

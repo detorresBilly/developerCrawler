@@ -4,7 +4,7 @@ from src.fetch_user_data import user_search, repo_search
 from pprint import pprint
 import json
 
-g = Github("842e4feafe2d5b3e33173aa0c048dbff0c3d4cfa")
+g = Github("8a86a310715943bcfbc58a45168de522c2ee0d97")
 
 with open('to_search.json') as f:
     dev_input = json.load(f)
