@@ -1,7 +1,5 @@
-import requests
 from github import Github
 import time
-import sys
 
 g = Github("842e4feafe2d5b3e33173aa0c048dbff0c3d4cfa")
 
@@ -9,7 +7,7 @@ g = Github("842e4feafe2d5b3e33173aa0c048dbff0c3d4cfa")
 class Developer(object):
 
     def __init__(self, login=None, avatar_url=None, name=None, company=None, blog=None, location=None, email=None,
-                 hireable=None, public_repos=None, followers=None):
+                 hireable=None, public_repos=None, followers=None, url=None):
         self.login = login
         self.avatar_url = avatar_url
         self.name = name
@@ -22,6 +20,7 @@ class Developer(object):
             self.hireable = "False"
         self.public_repos = public_repos
         self.followers = followers
+        self.url = "https://github.com/" + login
 
     def __eq__(self, other):
         return self.login == other.login
@@ -53,6 +52,6 @@ class Developer(object):
 
     def __str__(self):
         return "User: {login}\nName: {name}\nRepos: {public_repos}\nHireable: {hireable}\n".format(login=self.login,
-                                                                                                name=self.name,
-                                                                                                public_repos=self.public_repos,
-                                                                                                hireable=self.hireable)
+                                                                                                   name=self.name,
+                                                                                                   public_repos=self.public_repos,
+                                                                                                   hireable=self.hireable)
